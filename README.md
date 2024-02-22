@@ -19,5 +19,5 @@ Based on Time Series Analysis & used for Accurate Sales
  can drive strategic decision support for the supermarket’s
  growth, efficiency, satisfaction.
 
- Incorporated Data analysis tecgniques, Specializing in time series analysis to deliver valuable Insights, accurate Sales forecasting,
- and interactive deshboard creation driving business success.
+ Incorporated Data analysis techniques, Specializing in time series analysis to deliver valuable Insights, accurate Sales forecasting,
+ and interactive dashboard creation driving business success.
